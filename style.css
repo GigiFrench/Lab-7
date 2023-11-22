@@ -1,0 +1,53 @@
+
+
+/* Task 1: Styling the table */
+table {
+    border: 2px solid black;
+    border-collapse: collapse;
+    width: 100%;
+    margin: 100px;
+}
+
+th {
+    background-color: rgb(109, 106, 106);
+    border: 2px solid black;
+    padding: 10px;
+}
+
+td {
+    border: 2px solid black;
+    padding: 10px;
+}
+
+body {
+    background-color: pink;
+}
+p {
+
+}
+
+a:hover{
+    color: rgb(205, 5, 5);
+
+}
+.link {
+    color: #FF0000;
+}
+.link:hover { 
+    color: #00b3ff;
+} 
+
+
+/* visited link */
+a:visited {
+    color: rgb(147, 152, 147);
+}
+    /* selected link */
+a:active {
+    color: rgb(246, 95, 7);
+
+}
+
+
+
+        
